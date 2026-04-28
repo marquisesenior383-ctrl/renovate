@@ -1,5 +1,5 @@
 ![Mend Renovate CLI banner](https://docs.renovatebot.com/assets/images/mend-renovate-cli-banner.jpg)
-
+c0ed99385f0625415c8f05bcae33fe649ed2952894a95ff8b08f26ca57ea5b3c
 [![License: AGPL-3.0-only](https://img.shields.io/badge/license-%20%09AGPL--3.0--only-blue.svg)](https://raw.githubusercontent.com/renovatebot/renovate/main/license)
 [![codecov](https://codecov.io/gh/renovatebot/renovate/branch/main/graph/badge.svg)](https://codecov.io/gh/renovatebot/renovate)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
